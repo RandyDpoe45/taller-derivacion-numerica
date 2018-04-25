@@ -20,5 +20,5 @@
 |5.43656365691809| 1e-16 | 0|5.43656365691809|16.0000000000000|10.5634363430819|4.44089209850063|0.995671558417464|
 
 
-se puede decir que los metodos de 2 y tres puntos pierden exactitud desde h=1e-14 
+se puede decir que el metodo de dos puntos y richardson pierden exactitud desde h=1e-14 por otro lado el metodo de tres puntos pierde exactitud desde h=1e-15 
 
