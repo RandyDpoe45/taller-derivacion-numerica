@@ -16,3 +16,6 @@
 |5.43656365691809|1e-14|5.41788836017076|0.0186752967473263|
 |5.43656365691809|1e-15|6.21724893790088|0.780685280982786|
 |5.43656365691809|1e-16|0|5.43656365691809|
+
+usando la funcion  del punto 4 como ejemplo 
+se puede ver cuando h tiende a cero y cruza un cierto umbral empeora el resultado haciendo que el error de redondeo sea mayor
